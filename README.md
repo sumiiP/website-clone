@@ -1,2 +1,2 @@
 # website-clone
-1. [Youtube](https://www.youtube.com/)
+1. [Naver](https://www.naver.com/)
