@@ -1,2 +1,2 @@
 # website-clone
-1. [Naver](https://www.naver.com/)
+[Naver](https://www.naver.com/)
